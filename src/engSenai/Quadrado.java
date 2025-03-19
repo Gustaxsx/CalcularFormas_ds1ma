@@ -2,9 +2,7 @@ package engSenai;
 
 public class Quadrado {
 
-	private double altura;
-	private double comprimento;
-	private double base;
+
 	private double lado;
 	
 	public void setLado(double lado) {
